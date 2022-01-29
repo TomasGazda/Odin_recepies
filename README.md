@@ -1,2 +1,2 @@
-# Odin_recepies
+# Odin_recipes
 First project from Odin webpage
